@@ -29,5 +29,12 @@ RT-IoT2022 is designed to mimic real-world network scenarios in IoT environments
 - Evaluating the performance of cybersecurity solutions under realistic conditions
 
 
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/RT-IoT2022.git
+   cd RT-IoT2022
+
 
 
