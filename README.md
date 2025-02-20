@@ -33,8 +33,16 @@ RT-IoT2022 is designed to mimic real-world network scenarios in IoT environments
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/RT-IoT2022.git
-   cd RT-IoT2022
+   https://github.com/M-Shafi-VN/intrusion-detection-system
+   
+
+## Environment Setup:
+Use virtual environments (e.g., conda or virtualenv) and install libraries such as:
+
+pandas for data manipulation
+numpy for numerical operations
+matplotlib and seaborn for visualization
+scikit-learn for model training and evaluation
 
 
 
