@@ -39,10 +39,10 @@ RT-IoT2022 is designed to mimic real-world network scenarios in IoT environments
 ## Environment Setup:
 Use virtual environments (e.g., conda or virtualenv) and install libraries such as:
 
-pandas for data manipulation
-numpy for numerical operations
-matplotlib and seaborn for visualization
-scikit-learn for model training and evaluation
+- pandas for data manipulation
+- numpy for numerical operations
+- matplotlib and seaborn for visualization
+- scikit-learn for model training and evaluation
 
 
 
